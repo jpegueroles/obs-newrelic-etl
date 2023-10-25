@@ -16,7 +16,7 @@ Debes configurar tus credenciales programaticas de AWS para poder almacenar el f
 Se debe setear ciertos export:
 
 ``` sh
-export NR_ACCOUNT_ID=3900733
+export NR_ACCOUNT_ID=your_New_Relic_account_id
 export NEW_RELIC_APP_NAME="obs-nr-etl-localhost"
 export AWS_DEFAULT_REGION="us-east-1"
 export NR_API_KEY="your_api_key"
