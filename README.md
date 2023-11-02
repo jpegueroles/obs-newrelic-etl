@@ -3,7 +3,7 @@
 
 # Ejecutar en local
 
-## Preparación ambiente
+## Preparación ambiente Local
 
 ``` sh
 poetry install
